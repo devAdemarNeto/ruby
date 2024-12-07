@@ -105,4 +105,15 @@ neto = Person.new('Neto', 1.76, 37)
 binding.pry
 
 
+#MVC
+
+#Model é a fabrica de objetos
+
+#View frontend do projeto
+
+#controler - faz a intermediação/comunicação entre o model e o View
+
+
+
+
 
